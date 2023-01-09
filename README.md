@@ -1,3 +1,26 @@
+# Izrada seminarskog rada
+
+Zadatak je napisati web chat aplikaciju. Tehnologije za izradu aplikacije su proizvoljne, važno
+je samo da je s izabranim tehnologijama moguće ostvariti sve uvjete funkcionalne
+specifikacije.
+Funkcionalna specifikacija
+Potrebno je kreirati funkcionalno korisničko sučelje za sudionike u chatu i kreirani kod
+postaviti na GitHub.
+Navedena chat aplikacija bi trebala:
+- moći kreirati nove tekstualne poruke
+- na enter ili klik na button “poslati” poruku (prikazati je na ekranu uz ime autora)
+- za svakog sudionika u chatu selektirati neku slučajnu boju i/ili ime kojih ih identificiraju
+- povezati se sa Scaledrone servisom (dodatne upute o servisu u privitku) te uspješno
+simulirati razgovor svih aktivnih korisnika
+- biti dostupna preko javnog GitHub računa
+
+# Pokretanje
+
+`npm install`
+U folderi gdje je package.json:
+`npm run start`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
