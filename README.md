@@ -17,7 +17,9 @@ simulirati razgovor svih aktivnih korisnika
 # Pokretanje
 
 `npm install`
-U folderi gdje je package.json:
+
+U folderu gdje je package.json:
+
 `npm run start`
 
 
